@@ -2,7 +2,7 @@
 
 
  /**
- * main - Entry point
+ * main-Entry point
  * printf - a fucntion that prints onthe terminal
  * Return: 0
  */
