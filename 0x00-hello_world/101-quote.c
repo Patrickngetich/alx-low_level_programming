@@ -22,5 +22,5 @@ int main(void)
 	write(2, var, sizeof(var) - 1);
 
 	return (1);
-	
+
 }
