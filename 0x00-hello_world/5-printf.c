@@ -3,6 +3,7 @@
 
  /**
  * main - main function
+ * printf - a fucntion that prints onthe terminal
  * Return: 0
  */
 
